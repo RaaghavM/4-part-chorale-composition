@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SimpleNote
+comment1.params=s\ k
+comment1.target=SimpleNote(java.lang.String,\ org.jfugue.theory.Key)
+comment2.params=
+comment2.target=java.lang.String\ getHigherNote()
+comment3.params=
+comment3.target=java.lang.String\ getLowerNote()
+comment4.params=
+comment4.target=java.lang.String\ getNote()
+comment5.params=
+comment5.target=int\ getOctave()
+numComments=6
